@@ -9,4 +9,14 @@ what about lunch
 pala
 rice
 sambar
+saturday
+friday
+wedsday
+monday
+:wq
+saturday
+friday
+wedsday
+monday
+:wq
 
